@@ -60,7 +60,7 @@
     width: 100%;
     background-color: #D8C6B8;
     padding-top: 10px;
-    padding-bottom: 10px;
+    padding-bottom: 0px;
     clear: left;
     background-image: inherit;
 	
@@ -72,7 +72,7 @@
     background-color: #0B9446;
     clear: left;
     color: inherit;
-    padding-bottom: 0px;
+    padding-bottom: 50px;
 }
 .container .secondary_header ul {
     text-decoration-color: #D8C6B8;
